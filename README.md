@@ -1,7 +1,9 @@
 COVID-19-timeline
 ====================
 
-*说明：本项目已由于不知名原因，很多内容消失了（见[这里](https://github.com/jarrywangcn/wuhan2020-timeline)）。此为灾备保存版，更新周期：2020年1月26日至4月17日。感谢原有的志愿者的辛劳付出，lest we forget, and we will NOT.* 
+以社会学年鉴模式体例规范地统编自2019年末起武汉新冠肺炎疫情进展的时间线(2019年12月1日-2020年4月17日)。原Project（[Pratitya/COVID-19-timeline](https://github.com/Pratitya/COVID-19-timeline)）已消失，感谢志愿者的辛劳操作。
+
+> [EPUB 电子书下载](ebook/COVID-19-timeline.epub)
 
 [疫情与舆情：武汉肺炎时间线TIMELINE](https://lestweforget.github.io/COVID-19-Timeline/)
 ===========================================================
